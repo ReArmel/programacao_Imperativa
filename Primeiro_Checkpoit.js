@@ -1,4 +1,3 @@
-const prato = 'pipoca, macarrao, carne, feijao, brigadeiro';
 let pipoca = 10;
 let macarrao = 8;
 let carne = 15;
